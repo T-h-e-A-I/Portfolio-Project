@@ -1,0 +1,153 @@
+#banner{
+    width: 100%;
+    min-height: 55vw;
+    background-color: lightgray;
+}
+#banner-inner{
+    width:80%;
+    height: 70%;
+    margin: auto;
+    text-align: center;
+}
+#jumbotron{
+    margin: 0 auto;
+    min-height: 100%;
+}
+#jumbotron h1{
+    margin: 0 auto;
+}
+#jumbotron p{
+    margin: 0 auto;
+}
+#jumbotron{
+    background-color: gray;
+    text-align: center;
+}
+#navigation{
+    background-color: #020266fa;
+}
+
+.nav-link{
+    text-align: center;
+    color: white;
+}
+.navbar .navbar-toggler .icon-bar {
+    background: red !important;
+}
+.about{
+    background-color: rgb(32, 168, 168);
+    color: white;
+}
+.my-img{
+    min-height: 300px;
+    width: 300px;
+    background-color: red;
+    margin: auto;
+    margin-left: 10px;
+}
+.circular-time{
+    min-height: 200px;
+    width: 200px;
+    margin: auto;
+    background-color: lightcoral;
+    border-radius: 50%;
+}
+#time{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-top: 55px;
+    text-align: center;
+}
+.education{
+    background-color: lightgray;
+}
+.descrip{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding:50px;
+    background-color:white;
+}
+.descrip p{
+    margin: 5px;
+
+}
+.card-img-top{
+    min-height: 300px;
+}
+.acheivement{
+    background-color:lightskyblue;
+}
+.card{
+    margin-left: 10px;
+}
+.acheivement h1{
+    text-align: center;
+    color:white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.education h1{
+    text-align: center;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.gallery h1{
+    text-align: center;
+    color:black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.pictures{
+    min-height: 280px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightcyan;
+    margin-bottom: 20px;
+    border: 1px solid rgb(94, 94, 233);
+    border-radius: 20px;
+}
+.pictures img{
+    height: 240px;
+}
+.contact{
+    color: white;
+    background-color: darkgrey;
+}
+.contact h1{
+    text-align: center;
+    padding-top: 30px;
+}
+.contact .banner-touch{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.contact button{
+    margin-bottom: 50px;
+}
+.form-control{
+    background-color: rgb(188, 188, 188) ;
+}
+.form-control:hover{
+    background-color: white;
+}
+.footer{
+    background-color: rgb(78, 180, 244);
+    color: white;
+    text-align: center;
+}
+.footer .quote{
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.footer p{
+    padding-bottom: 50px ;
+}
+.footer a{
+    text-decoration: none;
+    color:white;
+}
